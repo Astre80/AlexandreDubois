@@ -4,6 +4,15 @@
     padding: 0;
 }
 
+article
+{
+    background-color: rgba(0, 0, 0, .05);
+    padding-bottom: 7%;
+    padding-top: 15px;
+    margin: 5%;
+    margin-left: 13%;
+    margin-right: 13%;
+}
 .primary
 {
     background-color: #313131;
