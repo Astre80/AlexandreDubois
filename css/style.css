@@ -41,6 +41,10 @@ article
     color: #313131;
 }
 
+.bouttonProjet
+{
+    margin: 2%;
+}
 .outline-text{
     color: #F15D5D;
 }
@@ -77,3 +81,4 @@ article
 {
     margin-top: 5%;
 }
+
