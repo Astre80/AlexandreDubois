@@ -4,6 +4,11 @@
     padding: 0;
 }
 
+p
+{
+    font-size: 22px;
+}
+
 article
 {
     background-color: rgba(0, 0, 0, .05);
@@ -39,12 +44,14 @@ article
 
 .boutton{
     color: #313131;
+    margin-bottom: 2%;
 }
 
 .bouttonProjet
 {
     margin: 2%;
 }
+
 .outline-text{
     color: #F15D5D;
 }
@@ -57,7 +64,7 @@ article
 #Titre-paragraphe{
     color: #F15D5D;
     margin-top: 7%;
-    margin-bottom: 2%;
+    margin-bottom: 3%;
 }
 
 #contenu{
@@ -72,6 +79,12 @@ article
 #date
 {
     font-weight: bold;
+    font-size: 26px;
+}
+
+#intitule
+{
+    margin-bottom: 3%;
 }
 
 #description
